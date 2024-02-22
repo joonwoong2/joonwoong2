@@ -29,9 +29,6 @@
          <a href=> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link="> </a>
          <a href=> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link="> </a>
           </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
-    
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=junwoong2&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junwoong2&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
