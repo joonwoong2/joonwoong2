@@ -29,18 +29,10 @@
          <a href=> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link="> </a>
          <a href=> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link="> </a>
           </div>  <br>
-> <p align="left">
+ <p align="left"><h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🕰️ Commit Time </h2> <br>
   <a href="http://lovera.maxam.now.sh/">
     <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width="500">
   </a>
-  <h3 align="center">📌✨productive-box</h3>
-</p>
-
-<p align="center">
-   <img src="https://img.shields.io/badge/language-typescript-blue?style"/>
-   <img src="https://img.shields.io/github/license/maxam2017/productive-box"/>
-   <img src="https://img.shields.io/github/stars/maxam2017/productive-box"/>
-   <img src="https://img.shields.io/github/forks/maxam2017/productive-box"/>
 </p>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=junwoong2&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
