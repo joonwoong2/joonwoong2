@@ -39,4 +39,7 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joonwoong2&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+
+    ## ⌨️ 코딩
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joonwoong2)](https://solved.ac/joonwoong2)
     
