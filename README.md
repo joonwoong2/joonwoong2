@@ -41,5 +41,5 @@
     </div>
 
     ## ⌨️ 코딩
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joonwoong2)](https://solved.ac/joonwoong2)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myc0611)](https://solved.ac/myc0611)
     
